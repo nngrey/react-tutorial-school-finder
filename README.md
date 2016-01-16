@@ -6,6 +6,8 @@ Following tutiral at http://www.codeproject.com/Articles/1067725/Part-Building-w
 
 * To start mongodb, navigate to root of app and run 'mongod'
 
+* Browse to http://localhost:7777/index.html
+
 * To start mongo shell, navigate to mondgodb installation dir (~/usr/local/opt/mongodb/) and run 'mongo'
 
 * To see records in the mongo shell, show dbs, use schoolfinder, db.schools.find()
