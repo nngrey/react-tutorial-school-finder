@@ -17,7 +17,7 @@ module.exports = React.createClass({
               )
             })
           }
-         </iv>
+         </div>
       </div>
     )
   }
