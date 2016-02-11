@@ -1,6 +1,6 @@
 # SchoolFinder
 
-Following tutiral at http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js
+Following tutorial at http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js
 
 * To start nodemon, navigte to .\server\ and run 'nodemon server.js'
 
