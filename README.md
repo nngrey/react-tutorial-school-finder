@@ -1,4 +1,4 @@
-# SchoolFinder
+# SchoolFinder (tutorial using React)
 
 Following tutorial at http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js
 
